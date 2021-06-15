@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7dff"
+  },
+  "id": 1,
+  "categoryName": "Beverages",
+  "seoUrl": "beverages"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e00"
+  },
+  "id": 2,
+  "categoryName": "Condiments",
+  "seoUrl": "condiments"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e01"
+  },
+  "id": 3,
+  "categoryName": "Confections",
+  "seoUrl": "confections"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e02"
+  },
+  "id": 4,
+  "categoryName": "Dairy Products",
+  "seoUrl": "dairy-products"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e03"
+  },
+  "id": 5,
+  "categoryName": "Grains/Cereals",
+  "seoUrl": "grains-cereals"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e04"
+  },
+  "id": 6,
+  "categoryName": "Meat/Poultry",
+  "seoUrl": "meat-poultry"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e05"
+  },
+  "id": 7,
+  "categoryName": "Produce",
+  "seoUrl": "produce"
+},{
+  "_id": {
+    "$oid": "60c50835e926ad0730ad7e06"
+  },
+  "id": 8,
+  "categoryName": "Seafood",
+  "seoUrl": "seafood"
+}]
